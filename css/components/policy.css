@@ -1,0 +1,36 @@
+.policy .policy-list{
+    display: flex;
+    padding: 40px 120px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.policy .policy-list .policy-item{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    
+}
+
+.policy .policy-item i{
+    font-size: 40px;
+     }
+
+.policy .policy-item .policy-texts{
+display: flex;
+flex-direction: column;
+
+}
+    .policy .policy-item .policy-texts strong{
+       font-size: 20px;
+        }
+
+        .policy .policy-item .policy-texts span{
+            font-size: 14px;
+            
+            }
+            .policy{
+                border-bottom: 1px solid #d5d0d0;
+            }
+
+         
